@@ -1,0 +1,15 @@
+F:\bb\Final_Q1\Final_Q1\bin\Debug\Final_Q1.exe.config
+F:\bb\Final_Q1\Final_Q1\bin\Debug\Final_Q1.exe
+F:\bb\Final_Q1\Final_Q1\bin\Debug\Final_Q1.pdb
+F:\bb\Final_Q1\Final_Q1\obj\Debug\Final_Q1.csprojAssemblyReference.cache
+F:\bb\Final_Q1\Final_Q1\obj\Debug\MainWindow.g.cs
+F:\bb\Final_Q1\Final_Q1\obj\Debug\App.g.cs
+F:\bb\Final_Q1\Final_Q1\obj\Debug\Final_Q1_MarkupCompile.cache
+F:\bb\Final_Q1\Final_Q1\obj\Debug\Final_Q1_MarkupCompile.lref
+F:\bb\Final_Q1\Final_Q1\obj\Debug\MainWindow.baml
+F:\bb\Final_Q1\Final_Q1\obj\Debug\Final_Q1.g.resources
+F:\bb\Final_Q1\Final_Q1\obj\Debug\Final_Q1.Properties.Resources.resources
+F:\bb\Final_Q1\Final_Q1\obj\Debug\Final_Q1.csproj.GenerateResource.cache
+F:\bb\Final_Q1\Final_Q1\obj\Debug\Final_Q1.csproj.CoreCompileInputs.cache
+F:\bb\Final_Q1\Final_Q1\obj\Debug\Final_Q1.exe
+F:\bb\Final_Q1\Final_Q1\obj\Debug\Final_Q1.pdb
